@@ -47,8 +47,6 @@
 ### 📈 Neural Networks for Differential Equations (PDEs)
 - Experiments with NN architectures for PDE solutions, balancing speed/accuracy
 
-> Tip: add a **GIF** under each project + 3 bullet highlights max.
-
 ---
 
 ## 🏆 Highlights
@@ -61,7 +59,3 @@
 ## 🎯 Fun
 🏀 Basketball • 🥁 Drumming • building things that feel like products
 
-<!-- Optional: contributions snake -->
-<!--
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
--->
