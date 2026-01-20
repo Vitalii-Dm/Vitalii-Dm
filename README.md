@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 Tech stack (visual)
+## 🧰 Tech stack 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,sql,git,react,nodejs,fastapi,postgres" />
 </p>
