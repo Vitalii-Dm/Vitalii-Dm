@@ -23,7 +23,6 @@
 |:-:|---|---|---|
 | 🥈 | **Brick AI** | Clay × OpenAI Hackathon, London | GTM intelligence platform: a *Market Radar* and *Competitive War Room* built on Clay's MCP + OpenAI models via Codex CLI |
 | 🤖 | **[Daddy Agent](https://github.com/Vitalii-Dm/daddy-agent)** | HackUPC 2026, Barcelona | Electron app where you run a team of parallel Claude Code and Codex agents from a kanban board, orchestrated via tmux |
-| 🛡️ | **[VITAL](https://github.com/Vitalii-Dm/VITAL)** | HackUPC 2026, Barcelona | WiFi CSI sensing + YOLOv8-Pose that flags medical events for warehouse workers in under 2 s, with no wearables and no faces |
 | 🏅 | **[SAVR](https://github.com/Vitalii-Dm/savr)** · [demo](https://savrhackathon.lovable.app/landing) | Great Uni Hack 2025 | Student finance app: anomaly and ghost-subscription detection, gamified savings, and a 3D savings pot |
 | 🏅 | **[Rest Quest](https://devpost.com/software/rest-quest)** | Great Uni Hack 2025 | Reads your mood with computer vision, then asks Gemini where you should go on holiday |
 
