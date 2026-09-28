@@ -61,7 +61,7 @@
     <text x="330" y="100" class="ln l1"><tspan fill="#7cf6c9" font-weight="700">vitalii</tspan><tspan class="dim">@</tspan><tspan fill="#7cf6c9" font-weight="700">manchester</tspan></text>
     <text x="330" y="120" class="ln l1 dim">──────────────────</text>
     <text x="330" y="146" class="ln l2"><tspan class="k">Study</tspan><tspan x="422" class="v">CS + Maths @ University of Manchester</tspan><tspan class="dim"> (1st class, yr 1)</tspan></text>
-    <text x="330" y="170" class="ln l3"><tspan class="k">Route</tspan><tspan x="422" class="v">Kyiv → Madrid → Manchester</tspan></text>
+    <text x="330" y="170" class="ln l3"><tspan class="k">Route</tspan><tspan x="422" class="v">Kyiv → Valencia → Manchester</tspan></text>
     <text x="330" y="194" class="ln l4"><tspan class="k">Prev</tspan><tspan x="422" class="v">Founding Engineer @ Hugo</tspan><tspan class="dim"> · </tspan><tspan class="v">Full-stack @ TrouDigital</tspan></text>
     <text x="330" y="218" class="ln l5"><tspan class="k">Shell</tspan><tspan x="422" class="v">python · typescript · java · sql</tspan></text>
     <text x="330" y="242" class="ln l6"><tspan class="k">Packages</tspan><tspan x="422" class="v">next.js, supabase, pgvector, neo4j, pytorch</tspan></text>

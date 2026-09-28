@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Vitalii Dmytrychenko: builds AI agents and ships in 24 hours. Kyiv, Madrid, Manchester.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Vitalii Dmytrychenko: builds AI agents and ships in 24 hours. Kyiv, Valencia, Manchester.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b0f1a"/>
@@ -70,7 +70,7 @@
       <text x="190" y="210" class="rot r4" fill="#ffd36e">automation that replaces spreadsheets</text>
     </g>
 
-    <!-- route: Kyiv -> Madrid -> Manchester -->
+    <!-- route: Kyiv -> Valencia -> Manchester -->
     <g class="in d2">
       <path class="route" d="M92 268 C 220 238, 330 300, 452 268 S 690 238, 812 268" fill="none" stroke="#7aa7ff" stroke-opacity=".7" stroke-width="2"/>
       <circle cx="92" cy="268" r="5" fill="#ffd36e"/><circle class="pin" cx="92" cy="268" r="5" fill="none" stroke="#ffd36e" stroke-width="1.5"/>
@@ -78,7 +78,7 @@
       <circle cx="812" cy="268" r="5" fill="#7cf6c9"/><circle class="pin p3" cx="812" cy="268" r="5" fill="none" stroke="#7cf6c9" stroke-width="1.5"/>
       <g class="mono" font-size="13" fill="#b7bdd6">
         <text x="106" y="296">Kyiv · where it started</text>
-        <text x="466" y="296">Madrid · IB years</text>
+        <text x="466" y="296">Valencia · IB years</text>
         <text x="826" y="296">Manchester · now</text>
       </g>
     </g>
