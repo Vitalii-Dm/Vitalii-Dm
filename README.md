@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Vitalii Dmytrychenko: I build AI agents, RAG pipelines, hackathon MVPs and automation. Kyiv → Madrid → Manchester." />
+  <img src="assets/hero.svg" width="100%" alt="Vitalii Dmytrychenko: I build AI agents, RAG pipelines, hackathon MVPs and automation. Kyiv → Valencia → Manchester." />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <summary><b>🕹️ Lore</b> (click to expand)</summary>
 <br/>
 
-- 🇺🇦 Grew up in **Kyiv**, did the IB in **Madrid**, and now I'm in **Manchester**. Four languages: Ukrainian, Russian, English and Spanish.
+- 🇺🇦 Grew up in **Kyiv**, did the IB in **Valencia**, and now I'm in **Manchester**. Four languages: Ukrainian, Russian, English and Spanish.
 - 🧮 I was an olympiad kid: silver medal at the **HKIMO final in Hong Kong** and 1st place in the Olimpis CS Olympiad.
 - 🥁 Drummer, 🏀 basketball player, ♟️ chess player.
 - 🧠 Once shipped two podium projects in a single 24-hour hackathon.
