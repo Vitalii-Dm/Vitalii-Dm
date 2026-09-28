@@ -17,7 +17,7 @@
   <img src="assets/neofetch.svg" width="100%" alt="neofetch: CS + Maths at the University of Manchester; previously founding engineer at Hugo and full-stack at TrouDigital; 5x hackathon winner; speaks uk, ru, en, es; basketball, drums, chess." />
 </p>
 
-## 🏆 Built in 24 hours
+## 🏆 Hackathon builds
 
 | | Project | Where | What it does |
 |:-:|---|---|---|
@@ -54,8 +54,8 @@
 
 - 🇺🇦 Grew up in **Kyiv**, did the IB in **Madrid**, and now I'm in **Manchester**. Four languages: Ukrainian, Russian, English and Spanish.
 - 🧮 I was an olympiad kid: silver medal at the **HKIMO final in Hong Kong** and 1st place in the Olimpis CS Olympiad.
-- 🥁 I drum, 🏀 play basketball, and ♟️ play chess. All three reward timing, which is basically what hackathons are.
-- 🧠 My ideal weekend is 24 hours, 4 people, one kanban board, and too much coffee.
+- 🥁 Drummer, 🏀 basketball player, ♟️ chess player.
+- 🧠 Once shipped two podium projects in a single 24-hour hackathon.
 
 </details>
 
